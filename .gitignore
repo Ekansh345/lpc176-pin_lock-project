@@ -1,0 +1,13 @@
+*.axf
+*.bak
+*.d
+*.dep
+*.htm
+*.lst
+*.lnp
+*.map
+*.o
+*.uvguix.*
+*.uvopt
+*.uvproj.bak
+*.build_log.*
