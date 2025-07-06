@@ -48,7 +48,7 @@ If the entered PIN is incorrect:
 ## Notes
 
 - PINs are 4 ASCII characters, null-terminated
-- Decrypted password is also loaded into a register after validation
+- Decrypted password is displayed in memory after validation
 - LEDs are simulated via GPIO (FIO1DIR/FIO1SET/CLR and FIO2DIR/SET/CLR)
 - Assembly-only, no C or high-level libraries used
 
